@@ -1,3 +1,6 @@
 [submodule "themes/hugo-video"]
 	path = themes/hugo-video
 	url = https://github.com/martignoni/hugo-video.git
+[submodule "themes/ehr"]
+	path = themes/ehr
+	url = https://codeberg.org/EinoHR/EHR-hugo-theme
