@@ -1,0 +1,23 @@
+baseURL = 'https://einorauhala.fi/'
+languageCode = 'en-us'
+title = 'Eino Rauhala'
+theme = ['hugo-video','ehr']
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+
+  [privacy.googleAnalytics]
+    disable = true
+
+  [privacy.instagram]
+    disable = true
+
+  [privacy.twitter]
+    disable = true
+
+  [privacy.vimeo]
+    disable = true
+
+  [privacy.youtube]
+    disable = true

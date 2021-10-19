@@ -1,0 +1,138 @@
+body {
+    font-family: sans-serif;
+    max-width: 1200px;
+    height: 100%;
+    margin: auto;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+header {
+    font-size: 50px;
+}
+
+portfolio-item {
+    padding-top: 10px;
+}
+
+portfolio-item img {
+    position: relative; 
+    /* max-width: 500px; */
+    width: 100%;
+    opacity: 1;
+    transition-duration: 200ms;
+}
+
+portfolio-item:hover img {
+    opacity: 0.3;
+    transition-duration: 250ms;
+}
+
+portfolio-item:hover .info {
+    top: 50%;
+    opacity: 1;
+    transition-duration: 250ms;
+}  
+
+portfolio-item .info {
+    width: inherit;
+
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    text-align: center;
+
+    color: white;
+    
+    opacity: 0;
+    transition-duration: 200ms;
+}
+
+portfolio-item .info h1 {
+    font-size: 30px;
+}
+
+portfolio-item .info li {
+    font-size: 15px;
+}
+
+#tags {
+    width: 100px;
+    text-align: center;
+    position: relative;
+    list-style: none;
+    background-color: white;
+    color: black;
+    padding-left: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    opacity: 1;
+}
+
+#tags a {
+    color: black;
+    font-style: italic;
+}
+
+#tags a:hover {
+    color: #E9436F;
+    font-style: italic;
+}
+
+#tags li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+portfolio-item .info #tags {
+    opacity: 0;
+    width: unset;
+}
+
+portfolio-item:hover .info #tags {
+    animation: reveal .5s;
+    opacity: 1;
+}
+
+@keyframes reveal {
+    0% { width:0; opacity: 0;}
+    10% { width:0; opacity: 0;}
+    40% { width:100%; opacity: 1;}
+    100% { width:100%; opacity: 1;}
+}
+
+.pagination {
+    padding-top: 30px;
+}
+
+a {
+    font-family: monospace;
+    color: #E9436F;
+    text-decoration: none;
+}
+
+footer {
+    font-size: 10px;
+    padding-top: 50px;
+    position: relative;
+    bottom: 0px;
+}
+
+.download_button {
+    background-color: #E9436F;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 20px;
+}
+
+.download_button:hover {
+    background-color: #e9436fce;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    font-size: 20px;
+}
