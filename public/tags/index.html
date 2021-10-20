@@ -25,34 +25,34 @@
         
     </div>
     
-     <portfolio-item>
-    <a href="https://einorauhala.fi/tags/tag1/">
-    <div class="info">
-        <h1>tag1</h1>
-        <ul id="tags"></ul>
+    <div id="macy">
+        
     </div>
-    
-    
-    <img src="">
-    </a>
-</portfolio-item>  <portfolio-item>
-    <a href="https://einorauhala.fi/tags/tag2/">
-    <div class="info">
-        <h1>tag2</h1>
-        <ul id="tags"></ul>
-    </div>
-    
-    
-    <img src="">
-    </a>
-</portfolio-item> 
     <div class=pagination>
 
-1 of 1
+1 of 0
 
 </div>
 
 </main>
+
+<script src="https://cdn.jsdelivr.net/npm/macy@2"></script>
+<script>
+    var macy = Macy({
+        container: '#macy',
+        trueOrder: true,
+        waitForImages: false,
+        margin: 8,
+        columns: 2,
+        breakAt: {
+            780: 1,
+            810: 2,
+        },
+    });
+    macy.onImageLoad(function() {
+        macy.recalculate();
+    });  
+</script>
 
  <footer>
     <p><a href="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a CC BY-SA 4.0.</a> <br> All wrongs reserved. <a href="https://einorauhala.fi/">Eino Rauhala</a></p>

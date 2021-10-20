@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Eino Rauhala</title>
+    <link>https://einorauhala.fi/portfolio/</link>
+    <description>Recent content in Portfolios on Eino Rauhala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jul 2021 11:13:04 +0300</lastBuildDate><atom:link href="https://einorauhala.fi/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>art from nothing #1</title>
+      <link>https://einorauhala.fi/portfolio/afn-1/</link>
+      <pubDate>Fri, 30 Jul 2021 11:13:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/afn-1/</guid>
+      <description>art from nothing Art using generative processes, which create images or sounds based only some input parameters, like synthesizers or algorithms.
+ #1 – shader nodes in blender The first installment of art from nothing uses video from a heavily modified version of the node graph showcased by CGMatter in this tutorial and sounds made using slightly modified synthesizer presets in Ableton Live, which try to reflect the hypnotic nature of the videos.</description>
+    </item>
+    
+    <item>
+      <title>infinite-hallway</title>
+      <link>https://einorauhala.fi/portfolio/infinite-hallway/</link>
+      <pubDate>Fri, 30 Jul 2021 11:13:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/infinite-hallway/</guid>
+      <description>like every hallway, the “infinite-hallway” ends too.
+it might feel infinite, after every day there’s another
+changes are so slow
+sometimes it might already feel like it ends
+but the real end comes, at the end
+ made this in like two days again
+not having time to overdo/overthink makes me release more
+being more experimental also helps
+the idea was shifting a piano down -18 hertz so that everything sounds kinda out of tune</description>
+    </item>
+    
+    <item>
+      <title>1762021-137</title>
+      <link>https://einorauhala.fi/portfolio/1762021-137/</link>
+      <pubDate>Fri, 18 Jun 2021 12:09:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/1762021-137/</guid>
+      <description>1762021-137 by Eino Rauhala Made the 17th of June 2021 in 1 hour and 37 minutes. I know, creative.
+For the second song I got inspiration for the name from this cover by Glink which is a part of this amazing video essay by him, the sample I used sounded similar to the flute part.
+Q: Why the fuck am I usign the Papyrus font in the album art. A: It is actually a modified version of Papyrus that is even more noisy (just scribbled liquify on it).</description>
+    </item>
+    
+    <item>
+      <title>ｇｒａｖｉｔｙ</title>
+      <link>https://einorauhala.fi/portfolio/%EF%BD%87%EF%BD%92%EF%BD%81%EF%BD%96%EF%BD%89%EF%BD%94%EF%BD%99/</link>
+      <pubDate>Sun, 23 May 2021 12:20:47 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/%EF%BD%87%EF%BD%92%EF%BD%81%EF%BD%96%EF%BD%89%EF%BD%94%EF%BD%99/</guid>
+      <description>Your browser doesn&#39;t support embedded videos, but don&#39;t worry, you can download it and watch it with your favorite video player!  Made with Blender using cycles and Davinci Resolve in 2 days.
+something’s wrong here</description>
+    </item>
+    
+    <item>
+      <title>Malfunction</title>
+      <link>https://einorauhala.fi/portfolio/malfunction/</link>
+      <pubDate>Fri, 30 Apr 2021 18:49:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/malfunction/</guid>
+      <description>Submission for the Save media art event.
+“Malfunction is an audiovisual artwork with an electric soundscape and a scifi-inspired video. In it you get to experience a small slice of a science fiction world, where regardless of new technology errors are not avoided.”
+Soundscape made completely using Ableton Live [1] during january 2021 and the video using Blender [2], Davinci Resolve [3] and Krita [4] during april 2021.</description>
+    </item>
+    
+    <item>
+      <title>Drum and Bass – Sample Test</title>
+      <link>https://einorauhala.fi/portfolio/drum-and-bass-sample-test/</link>
+      <pubDate>Sun, 31 Jan 2021 15:47:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/drum-and-bass-sample-test/</guid>
+      <description>   Excuse the graphics. Kuva kiivistä.png Music by Eino Rauhala
+Tools used: Ableton Live, Blender, Gimp and Ableton Push 2  </description>
+    </item>
+    
+    <item>
+      <title>Sword of Light</title>
+      <link>https://einorauhala.fi/portfolio/sword-of-light/</link>
+      <pubDate>Sun, 31 Jan 2021 15:35:04 +0300</pubDate>
+      
+      <guid>https://einorauhala.fi/portfolio/sword-of-light/</guid>
+      <description>   Music by Eino Rauhala Tools used: Ableton Live, Zwobot Max, Blender, Photoshop and Ableton Push 2  </description>
+    </item>
+    
+  </channel>
+</rss>

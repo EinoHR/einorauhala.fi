@@ -25,8 +25,10 @@
         
     </div>
     
-     <portfolio-item>
-    <a href="https://einorauhala.fi/posts/afn-1/">
+    <div id="macy">
+          
+<portfolio-item>
+    <a href="https://einorauhala.fi/portfolio/afn-1/">
     <div class="info">
         <h1>art from nothing #1</h1>
         <ul id="tags"><li>[Blender]</li></ul>
@@ -35,7 +37,30 @@
     
     <img src="/covers/art-from-nothing-1.jpg">
     </a>
+</portfolio-item>   
+<portfolio-item>
+    <a href="https://einorauhala.fi/portfolio/%EF%BD%87%EF%BD%92%EF%BD%81%EF%BD%96%EF%BD%89%EF%BD%94%EF%BD%99/">
+    <div class="info">
+        <h1>ｇｒａｖｉｔｙ</h1>
+        <ul id="tags"><li>[Blender]</li></ul>
+    </div>
+    
+    
+    <img src="/covers/gravity.png">
+    </a>
+</portfolio-item>   
+<portfolio-item>
+    <a href="https://einorauhala.fi/portfolio/malfunction/">
+    <div class="info">
+        <h1>Malfunction</h1>
+        <ul id="tags"><li>[Blender]</li></ul>
+    </div>
+    
+    
+    <img src="/covers/malfunction.jpeg">
+    </a>
 </portfolio-item> 
+    </div>
     <div class=pagination>
 
 1 of 1
@@ -43,6 +68,24 @@
 </div>
 
 </main>
+
+<script src="https://cdn.jsdelivr.net/npm/macy@2"></script>
+<script>
+    var macy = Macy({
+        container: '#macy',
+        trueOrder: true,
+        waitForImages: false,
+        margin: 8,
+        columns: 2,
+        breakAt: {
+            780: 1,
+            810: 2,
+        },
+    });
+    macy.onImageLoad(function() {
+        macy.recalculate();
+    });  
+</script>
 
  <footer>
     <p><a href="https://creativecommons.org/licenses/by-sa/4.0/">This work is licensed under a CC BY-SA 4.0.</a> <br> All wrongs reserved. <a href="https://einorauhala.fi/">Eino Rauhala</a></p>
