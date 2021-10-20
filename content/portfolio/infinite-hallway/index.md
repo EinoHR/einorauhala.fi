@@ -5,9 +5,6 @@ lastmod: 2021-10-19T11:14:33+03:00
 cover: /covers/infinite-hallway.png
 categories:
   - Music
-tags:
-  - tag1
-  - tag2
 draft: false
 ---
 
