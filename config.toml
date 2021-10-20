@@ -20,4 +20,5 @@ theme = ['hugo-video','ehr']
     disable = true
 
   [privacy.youtube]
-    disable = true
+    disable = false
+    privacyEnhanced = true
