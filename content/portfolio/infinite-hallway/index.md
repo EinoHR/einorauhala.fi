@@ -1,7 +1,6 @@
 ---
 title: "infinite-hallway"
 date: 2021-07-30T11:13:04+03:00
-lastmod: 2021-10-19T11:14:33+03:00
 cover: /covers/infinite-hallway.png
 categories:
   - Music
