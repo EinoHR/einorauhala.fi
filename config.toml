@@ -27,3 +27,15 @@ theme = ['hugo-video','ehr']
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+menu = 'main'
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = -110
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = -100
