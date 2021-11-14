@@ -1,7 +1,7 @@
 ---
 title: "Lofi & Plugins"
 date: 2020-04-26T19:14:30+02:00
-cover: /covers/lofiplugins.jp§g
+cover: /covers/lofiplugins.jpg
 categories:
   - Music
 draft: false
