@@ -4,6 +4,7 @@ date: 2021-04-30T18:49:04+03:00
 cover: /covers/malfunction.jpeg
 categories:
   - Blender
+  - Music
 draft: false
 ---
 
