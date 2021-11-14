@@ -2,6 +2,7 @@ baseURL = 'https://einorauhala.fi/'
 languageCode = 'en-us'
 title = 'Eino Rauhala'
 theme = ['hugo-video','ehr']
+relativeURLs = "true"
 
 [privacy]
   [privacy.disqus]
