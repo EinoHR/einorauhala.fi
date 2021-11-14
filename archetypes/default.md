@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-cover: /covers/malfunction.jpeg
+cover: /covers/{{.Name}}.jpeg
 categories:
   - Blender
 draft: false
