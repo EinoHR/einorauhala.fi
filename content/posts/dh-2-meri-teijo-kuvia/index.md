@@ -1,9 +1,9 @@
 ---
 title: "Vintek DH Cup #2: Meri-Teijo – Kuvia"
 date: 2021-07-19T15:29:58+02:00
-cover: /covers/dh-2-meri-teijo-kuvia.jpeg
+cover: /posts/dh-2-meri-teijo-kuvia/JoonasPurtola_Meri-Teijo_2021-web-jpg.jpg
 categories:
-  - Blender
+  - Photography
 draft: false
 ---
 
