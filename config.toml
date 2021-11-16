@@ -1,4 +1,4 @@
-baseURL = 'https://einorauhala.fi/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Eino Rauhala'
 theme = ['hugo-video','ehr']
