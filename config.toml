@@ -40,3 +40,7 @@ menu = 'main'
   name = 'Posts'
   url = '/posts/'
   weight = -100
+[[menu.main]]
+  name = 'About'
+  url = '/about/'
+  weight = -90
