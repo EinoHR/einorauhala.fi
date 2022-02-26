@@ -3,6 +3,7 @@ title: "art from nothing #1"
 date: 2021-07-30T11:13:04+03:00
 cover: /covers/art-from-nothing-1.jpg
 categories:
+  - Generative
   - Blender
 draft: false
 ---
@@ -21,7 +22,7 @@ Art using generative processes, which create images or sounds based only some in
 {{% column %}}
 
 ## #1 – shader nodes in blender
-The first installment of art from nothing uses video from a heavily modified version of the node graph showcased by CGMatter in this tutorial and sounds made using slightly modified synthesizer presets in Ableton Live, which try to reflect the hypnotic nature of the videos.
+The first installment of art from nothing uses video from a heavily modified version of the node graph showcased by CGMatter in [this tutorial](https://www.youtube.com/watch?v=OG9olLlKB8Q) and sounds made using slightly modified synthesizer presets in Ableton Live, which try to reflect the hypnotic nature of the videos.
 
 {{% /column %}}
 
