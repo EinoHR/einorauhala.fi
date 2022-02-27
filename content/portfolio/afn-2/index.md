@@ -4,6 +4,7 @@ date: 2022-02-26T11:13:04+03:00
 cover: /covers/art-from-nothing-2.png
 categories:
   - Generative
+  - Paper.js
 draft: false
 ---
 
