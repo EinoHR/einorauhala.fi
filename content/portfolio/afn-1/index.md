@@ -29,9 +29,9 @@ The first installment of art from nothing uses video from a heavily modified ver
 
 {{</col_row>}}
 
-{{<video src="afn-1-1.mp4">}}
-{{<video src="afn-1-2.mp4">}}
-{{<video src="afn-1-3.mp4">}}
-{{<video src="afn-1-4.mp4">}}
+{{<video src="afn-1-1.webm">}}
+{{<video src="afn-1-2.webm">}}
+{{<video src="afn-1-3.webm">}}
+{{<video src="afn-1-4.webm">}}
 
 {{<download file="afn-1.blend.zip" text="Download .blend file">}}
