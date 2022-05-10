@@ -30,7 +30,7 @@ for file in os.listdir(uf):
     indexfile = open(indexfile_path, 'w+')
     indexfile.write(f"""\
 ---
-cover: '{biggest_cont_index}/{newfile_name}'
+cover: '/unfinisheds/{biggest_cont_index}/{newfile_name}'
 title: '{biggest_cont_index}'
 date: {time}
 categories:
@@ -42,4 +42,3 @@ draft: false
 
 \
                 """)
-    
