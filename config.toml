@@ -33,14 +33,21 @@ menu = 'main'
 
 [menu]
 [[menu.main]]
-  name = 'Home'
+  name = '"Portfolio"'
   url = '/'
   weight = -110
 [[menu.main]]
+  name = 'unfinisheds'
+  url = '/unfinisheds/'
+  weight = -100
+[[menu.main]]
   name = 'Posts'
   url = '/posts/'
-  weight = -100
+  weight = -90
 [[menu.main]]
   name = 'About'
   url = '/about/'
-  weight = -90
+  weight = -80
+
+[params]
+  mainSections = 'portfolio'
