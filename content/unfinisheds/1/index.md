@@ -1,7 +1,9 @@
 ---
-cover: '1/media.png'
+cover: '/unfinisheds/1/media.png'
 title: '1'
-date: 1652205471.621
+date: 1652207254.179
+categories:
+    - Unfinisheds
 draft: false
 ---
 
